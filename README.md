@@ -55,7 +55,7 @@ This Medical Volume Renderer is an advanced application designed for visualizing
 3. Clone the repository:
 
    ```bash
-    git clone https://github.com/yourusername/medical-volume-renderer.git
+    git clone https://github.com/priscilla100/medical-volume-renderer.git
 4. Navigate to the project directory:
     ```bash
     cd medical-volume-renderer
