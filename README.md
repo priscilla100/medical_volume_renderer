@@ -73,6 +73,8 @@ Navigate the volume using mouse and keyboard controls:
 - Mouse: Rotate view
 - Arrow keys: Adjust clipping planes
 
+Here is the spine prior to rendering
+![IM000001](https://github.com/user-attachments/assets/68ed7230-dc72-40d5-a3a4-09044e7df9ef)
 
 Adjusting the volume control parameters achieves different volume rendering of the spinal imaging.
 ![PBR+AMBIENT OCCLUSION+GS - Copy](https://github.com/user-attachments/assets/927e794d-1219-4136-916c-f85d4c1354ba)
