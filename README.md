@@ -1,4 +1,4 @@
-# Medical Volume Renderer
+# Medical Volume Renderer: CSE 528 Computer Graphics
 
 ## Overview
 
